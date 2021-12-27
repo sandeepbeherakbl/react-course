@@ -1,1 +1,0 @@
-(()=>{function o(o,n){return o+n}console.log(o(2,4)),console.log(o(1,2))})();
