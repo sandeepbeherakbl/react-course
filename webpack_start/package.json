@@ -1,21 +1,13 @@
 {
-  "name": "react-course",
+  "name": "webpack_start",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sandeepbeherakbl/react-course.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sandeepbeherakbl/react-course/issues"
-  },
-  "homepage": "https://github.com/sandeepbeherakbl/react-course#readme",
   "dependencies": {
     "webpack": "^5.65.0",
     "webpack-cli": "^4.9.1"
