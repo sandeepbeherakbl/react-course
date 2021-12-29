@@ -1,0 +1,1 @@
+(()=>{function o(o){return o%2==0?even:odd}console.log(o(10)),console.log(o(11))})();
